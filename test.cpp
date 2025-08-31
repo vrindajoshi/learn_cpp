@@ -18,3 +18,20 @@ int main() {
 }
 */
 
+/* Challenge 
+int main() {
+    int a = 1;
+    int b = 2;
+
+    int c = b;
+    b = a;
+    a = c;
+    cout << a;
+}
+*/
+
+int main() {
+    const double pi = 3.14;
+    std::cout << pi;
+}
+
